@@ -1,0 +1,20 @@
+@startwbs lineage
+* P0
+** Router
+*** Lightbulb 2
+*** Lightbulb 1
+**** Lightbulb 4
+**** Coffeemaker
+***** Garage door
+*** Lightbulb 3
+**** TV
+***** WiFi extender 2
+**** Dishwasher
+**** Washing machine
+** Fridge
+*** WiFi extender 1
+**** Doorbell
+**** Doorlock
+*** Toaster
+**** Alexa
+@endwbs

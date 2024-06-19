@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Python: creativecode-hostinfotree",
+			"type": "debugpy",
+			"request": "launch",
+			"cwd": "${workspaceFolder}/creativecode/src",
+			"module": "hostinfotree",
+			"args": [],
+			"console": "integratedTerminal",
+			"justMyCode": false
+		}
+	]
+}
